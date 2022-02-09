@@ -1,0 +1,36 @@
+body {
+    background: #c7b39b url(images/bg.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+
+
+    <center>
+    <table border="1"width="65%" height="150">
+    <thead>
+    <tr>
+      <td>Email</td>
+      <td>Login</td>
+      <td>Password</td>
+    </tr>
+    </thead>
+  </table>
+
+  <table border="1" width="65%" height="150">
+  <tbody>
+    <tr>
+      <td>JAba@gmail.com</td>
+      <td>SObaka385</td>
+      <td> </td>
+    </tr>
+  </tbody>
+  </table>
+
+<table border="1"width="65%" height="150">
+  <tfoot>
+  <tr>
+    <td>Lisa13@gmail.com</td>
+    <td>PIVO22808</td>
+    <td>MAzafaker228</td>
+  </tr>
+  </tfoot>
+</table>
+</center>
